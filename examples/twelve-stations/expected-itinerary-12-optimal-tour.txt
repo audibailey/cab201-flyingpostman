@@ -1,0 +1,17 @@
+﻿Optimising tour length: Level 3...
+Elapsed time: 52.024 seconds
+Tour time: 9 hours 29 minutes
+Tour length: 1350.379
+po   ->      yhn     20:00   20:45
+yhn      ->      wsx     20:45   20:57
+wsx      ->      pkb     20:57   21:32
+pkb      ->      qpn     21:32   23:08
+qpn      ->      mth     23:08   23:40
+mth      ->      edc     23:40   00:53
+*** refuel 20 minutes ***
+edc      ->      wtn     01:13   02:13
+wtn      ->      uuk     02:13   02:52
+uuk      ->      rfv     02:52   03:10
+rfv      ->      tgb     03:10   04:04
+tgb      ->      cxs     04:04   04:51
+cxs      ->      po      04:51   05:29
